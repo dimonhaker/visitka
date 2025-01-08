@@ -1,0 +1,161 @@
+.header {
+  height: 100vh;
+  background: url(/images/bg.jpg);
+  clip-path: polygon(0 0, 100% 0, 100% 85%, 50% 100%, 0 85%);
+}
+.header-top {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  height: 80px;
+
+  color: #fff;
+  background: #00000030;
+}
+.logo {
+}
+.navigation {
+}
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.menu-element {
+    margin: 0 20px;
+}
+.menu-element__link {
+}
+.switcher {
+}
+.header-center {
+}
+.name {
+}
+.discription {
+}
+.about-me {
+}
+.left {
+}
+.right {
+}
+.about-me__tittle {
+}
+.about-me__description {
+}
+.gray {
+}
+.about-me__extra {
+}
+.about-me__extra-element {
+}
+.bold {
+}
+.achivements {
+}
+.second-title {
+}
+.achivements-list {
+}
+.achivements-list__element {
+}
+.skills {
+}
+.section-description {
+}
+.skills-filter {
+}
+.skills-filter__element {
+}
+.skills-wrapper {
+}
+.skills-list {
+}
+.skills-list__element {
+}
+.scills-card {
+}
+.skill-card__title {
+}
+.skill-vard__image {
+}
+.skill-card__name {
+}
+.skill-card__progress {
+}
+.scill-card__progress-persent {
+}
+.skill-card__progress-bar {
+}
+.skill-card__description {
+}
+.work {
+}
+.work-wrapper {
+}
+.work-element {
+}
+.work-element__content {
+}
+.work-element__title {
+}
+.work-element__description {
+}
+.work-element__block-title {
+}
+.work-element__scills {
+}
+.work-element__scils-element {
+}
+.work-element__date {
+}
+.work-element__projects {
+}
+.work-element__projects-element {
+}
+.work-project__title {
+}
+.work-tooltip {
+}
+.work-project__description {
+}
+.interests {
+}
+.interest-wrapper {
+}
+.interest-image {
+}
+.interest-title {
+}
+.interest-text {
+}
+.books {
+}
+.books-list {
+}
+.books-list__element {
+}
+.contact-me {
+}
+.contact-me__form {
+}
+.input-wrapper {
+}
+.input {
+}
+.textarea-wrapper {
+}
+.textarea {
+}
+.footer {
+}
+.socials {
+}
+.social-element {
+}
+.social-element__link {
+}
+.footer-about {
+}
